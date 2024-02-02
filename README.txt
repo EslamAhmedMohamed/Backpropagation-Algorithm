@@ -1,0 +1,1 @@
+The project involves an implementation of the deep learning algorithm "Backpropagation" with a Dry Beans dataset. Project include understanding and implementing various components like data preparation steps such as preprocessing, data cleaning and deep learning consepts "Forward propagation and Backwoard propagation".
